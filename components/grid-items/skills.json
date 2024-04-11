@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Css",
+    "path": "/image/skills/css.svg"
+  },
+  {
+    "name": "Github",
+    "path": "/image/skills/github.svg"
+  },
+  {
+    "name": "Html",
+    "path": "/image/skills/html.svg"
+  },
+  {
+    "name": "Javascript",
+    "path": "/image/skills/javascript.svg"
+  },
+  {
+    "name": "NextJS",
+    "path": "/image/skills/nextjs.svg"
+  },
+  {
+    "name": "React",
+    "path": "/image/skills/react.svg"
+  },
+  {
+    "name": "TypeScript",
+    "path": "/image/skills/typescript.svg"
+  },
+  {
+    "name": "Vercel",
+    "path": "/image/skills/vercel.svg"
+  },
+  {
+    "name": "Tailwind",
+    "path": "/image/skills/tailwind.svg"
+  },
+  {
+    "name": "NodeJS",
+    "path": "/image/skills/node.svg"
+  },
+  {
+    "name": "Java",
+    "path": "/image/skills/java.svg"
+  },
+  {
+    "name": "Figma",
+    "path": "/image/skills/java.svg"
+  }
+]
